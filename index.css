@@ -6,7 +6,6 @@
     display: inline-block;
     justify-content: center;
     align-items: center;
-    margin-left: 450px;
     margin-top: 50px;
 }
 h2{
@@ -51,4 +50,5 @@ h3 a{
 }
 h3 a:hover{
     color: black;
+
 }
